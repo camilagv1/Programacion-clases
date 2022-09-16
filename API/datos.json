@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Maria",
+        "apellido": "se fue",
+        "telefono": 951357,
+        "cedula": 1234566789
+    },
+    {
+        "nombre": "susanita",
+        "apellido": "tambien se fue   ",
+        "telefono": 34567890,
+        "cedula": 12345789
+    },
+    {
+        "nombre": "renata",
+        "apellido": "volvio   ",
+        "telefono": 2345678,
+        "cedula": 234567
+    }
+
+]
